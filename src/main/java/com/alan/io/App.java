@@ -1,4 +1,3 @@
-package com.alan.io;
 
 /**
  * Hello world!
